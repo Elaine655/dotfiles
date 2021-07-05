@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = elaine.tan@hotmail.fr
+	name = Elaine Tan
